@@ -17,7 +17,7 @@ I'm an M.S. student in computer science at Hanyang University, Seoul, South Kore
 
 (expected to graduate in Feb. 2022)
 
-I enjoy discovering <b> new computer vision problems</b> and solve them using novel <b>machine learning</b> methodologies!
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy discovering <b> new computer vision problems</b> and solve them using novel <b>machine learning</b> methodologies!
 
 <br/>
 
@@ -88,4 +88,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://github.com/abhisheknaiidu/awesome-github-profile-readme#descriptive-
+
 -->
