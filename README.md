@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-My name is Seobin Park. I am pursuing M.S. degree in computer science at Hanyang University, Seoul, South Korea (expected to graduate in Feb. 2022). 
+My name is Seobin Park. 
+
+I am pursuing M.S. degree in computer science at Hanyang University, Seoul, South Korea.
+
+(expected to graduate in Feb. 2022)
 
 <br/>
 
@@ -18,30 +22,30 @@ S. Park, J. Yoo, D. Cho, J. Kim, T. H. Kim <br/> European Conference on Computer
 
 <table>
   <tr>
-    <td>
-      <img src="https://avatars.githubusercontent.com/u/1969658" alt="Banner" width="150px">
+    <td align="center">
+      <img src="images/InterFlow2.png" alt="Banner" height="150px">
     </td>
     <td>
       <h3>Modeling degradations for real-world super-resolution via constrained flows</h3>
       <p><b>S. Park</b>, D. Kim, T. H. Kim</p>
-      <p>European Conference on Computer Vision (ECCV), 2020</p>
+      <p>Under Review</p>
     </td>
   </tr>
   
   <tr>
-    <td>
-      <img src="https://avatars.githubusercontent.com/u/1969658" alt="Banner" width="150px">
+    <td align="center">
+      <img src="images/SRNODE.png" alt="Banner" height="150px">
     </td>
     <td>
       <h3>Progressive image super-resolution via neural differential equation</h3>
       <p><b>S. Park</b>, T. H. Kim</p>
-      <p>EEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022</p>
+      <p>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022</p>
     </td>
   </tr>
   
   <tr>
-    <td>
-      <img src="https://avatars.githubusercontent.com/u/1969658" alt="Banner" width="150px">
+    <td align="center">
+      <img src="images/MLSR3.png" alt="Banner" height="150px">
     </td>
     <td>
       <h3>Fast adaptation to super-resolution networks via meta-learning</h3>
