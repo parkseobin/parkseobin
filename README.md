@@ -13,7 +13,7 @@
 
 ### My name is Seobin Park! 
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am interested in discovering the nature of all sorts of visual data and making them look better. Here is my [CV](https://drive.google.com/file/d/1MI8tBAodGvGa4tguMH5W34X8F8UKqsIc/view?usp=sharing).
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am interested in discovering the nature of all sorts of visual data (images, videos, 3D scenes, etc) and making them look better. Here is my [CV](https://drive.google.com/file/d/1MI8tBAodGvGa4tguMH5W34X8F8UKqsIc/view?usp=sharing).
 <!-- I enjoy discovering <b> new computer vision problems</b> and solve them using novel <b>machine learning</b> methodologies!  -->
 
 
