@@ -10,14 +10,21 @@
     <img width="22px" src="https://us-central1-iconscout-1539.cloudfunctions.net/iconscout-gcp-functions-production-download?name=linkedin&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-24%2F461814.png&width=24&height=24" />
 </a>
 
+
 ### My name is Seobin Park! 
 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am interested in discovering the nature of all sorts of visual data and making them look better. Here is my [CV](https://drive.google.com/file/d/1MI8tBAodGvGa4tguMH5W34X8F8UKqsIc/view?usp=sharing).
+<!-- I enjoy discovering <b> new computer vision problems</b> and solve them using novel <b>machine learning</b> methodologies!  -->
 
-I'm an M.S. student in computer science at Hanyang University, Seoul, South Korea 🇰🇷.
 
-(expected to graduate in Feb. 2022)
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy discovering <b> new computer vision problems</b> and solve them using novel <b>machine learning</b> methodologies!
+
+I'm currently working as a CV/ML research intern at Kakaobrain, South Korea 🇰🇷.
+
+
+🌱 In Fall 2022, I will be joining [LIVE](https://live.ece.utexas.edu/) at the University of Texas at Austin as a PhD student. 
+
+
 
 <br/>
 
