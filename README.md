@@ -18,10 +18,6 @@
 
 
 
-
-I'm currently working as a CV/ML research intern at Kakaobrain, South Korea 🇰🇷.
-
-
 🌱 In Fall 2022, I will be joining [LIVE](https://live.ece.utexas.edu/) at the University of Texas at Austin as a PhD student. 
 
 
