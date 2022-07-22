@@ -13,66 +13,10 @@
 
 ### My name is Seobin Park! 
 
+🌱 I'm an incoming PhD student at the University of Texas at Austin, [LIVE](https://live.ece.utexas.edu/) (supervisor: [Dr. Alan Bovik](http://utw10503.utweb.utexas.edu/bovik.php)). I received Masters in Computer Science under the supervision of [Dr. Tae Hyun Kim](https://sites.google.com/site/lliger9/) at Hanyang University, South Korea. 
+
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am interested in discovering the nature of all sorts of visual data (images, videos, 3D scenes, etc) and making them look better. Here is my [CV](https://drive.google.com/file/d/1MI8tBAodGvGa4tguMH5W34X8F8UKqsIc/view?usp=sharing).
-<!-- I enjoy discovering <b> new computer vision problems</b> and solve them using novel <b>machine learning</b> methodologies!  -->
 
-
-
-🌱 In Fall 2022, I will be joining [LIVE](https://live.ece.utexas.edu/) at the University of Texas at Austin as a PhD student. 
-
-
-
-<br/>
-
-## ✨ Publications
-
-<!-- ---
-
-<p>
-<img align="right" width="20%" src="https://avatars.githubusercontent.com/u/1969658"> 
-</p>
-  
-#### Fast adaptation to super-resolution networks via meta-learning
-
-S. Park, J. Yoo, D. Cho, J. Kim, T. H. Kim <br/> European Conference on Computer Vision (ECCV), 2020 -->
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="images/InterFlow2.png" alt="Banner" height="150px">
-    </td>
-    <td>
-      <h3>Modeling degradations for real-world super-resolution via constrained flows</h3>
-      <p><b>S. Park</b>, D. Kim, T. H. Kim</p>
-      <p>Under Review</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center">
-      <img src="images/SRNODE.png" alt="Banner" height="150px">
-    </td>
-    <td>    
-      <h3>Progressive image super-resolution via neural differential equation</h3>
-      <p><b>S. Park</b>, T. H. Kim</p>
-      <p>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022</p>
-      <p> <a href="https://arxiv.org/abs/2101.08987" target="_blank">paper</a> | code </p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center">
-      <img src="images/MLSR3.png" alt="Banner" height="150px">
-    </td>
-    <td>
-      <h3>Fast adaptation to super-resolution networks via meta-learning</h3>
-      <p><b>S. Park</b>, J. Yoo, D. Cho, J. Kim, T. H. Kim</p>
-      <p>European Conference on Computer Vision (ECCV), 2020</p>
-      <p> <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5930_ECCV_2020_paper.php" target="_blank">paper</a> | <a href="https://github.com/parkseobin/MLSR" target="_blank">code</a> </p>
-    </td>
-  </tr>
-  
-</table>
 
 
 
