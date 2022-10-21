@@ -13,9 +13,9 @@
 
 ### My name is Seobin Park! 
 
-🌱 I'm an incoming PhD student at the University of Texas at Austin, [LIVE](https://live.ece.utexas.edu/) (supervisor: [Dr. Alan Bovik](http://utw10503.utweb.utexas.edu/bovik.php)). I received Masters in Computer Science under the supervision of [Dr. Tae Hyun Kim](https://sites.google.com/site/lliger9/) at Hanyang University, South Korea. 
+🌱 I'm a PhD student at the University of Texas at Austin, [LIVE](https://live.ece.utexas.edu/) (supervisor: [Dr. Alan Bovik](http://utw10503.utweb.utexas.edu/bovik.php)). I received Masters in Computer Science under the supervision of [Dr. Tae Hyun Kim](https://sites.google.com/site/lliger9/) at Hanyang University, South Korea. 
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am interested in discovering the nature of all sorts of visual data (images, videos, 3D scenes, etc) and making them look better. Here is my [CV](https://drive.google.com/file/d/1MI8tBAodGvGa4tguMH5W34X8F8UKqsIc/view?usp=sharing).
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am interested in discovering the nature of all sorts of visual data (images, videos, 3D scenes, etc) and making them look better. In LIVE, I am working on VR video processing with a focus on human vision system. Here is my [CV](https://drive.google.com/file/d/1MI8tBAodGvGa4tguMH5W34X8F8UKqsIc/view?usp=sharing).
 
 
 
