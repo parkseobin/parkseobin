@@ -1,21 +1,21 @@
 # Hi there 👋
 
-<a href="mailto:kor.p.sb@gmail.com" target="_blank">
+<a href="mailto:seobinpark@utexas.edu" target="_blank">
     <img width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" />
 </a>
 <a href="https://scholar.google.com/citations?user=K5swiH0AAAAJ" target="_blank">
     <img width="22px" src="https://icon-icons.com/downloadimage.php?id=130918&root=2108/PNG/32/&file=google_scholar_icon_130918.png" />
 </a>
 <a href="https://www.linkedin.com/in/seobin-park-715786187/" target="_blank">
-    <img width="22px" src="https://us-central1-iconscout-1539.cloudfunctions.net/iconscout-gcp-functions-production-download?name=linkedin&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-24%2F461814.png&width=24&height=24" />
+    <img width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
 </a>
 
 
 ### My name is Seobin Park! 
 
-🌱 I'm a PhD student at the University of Texas at Austin, [LIVE](https://live.ece.utexas.edu/) (supervisor: [Dr. Alan Bovik](http://utw10503.utweb.utexas.edu/bovik.php)). I received Masters in Computer Science under the supervision of [Dr. Tae Hyun Kim](https://sites.google.com/site/lliger9/) at Hanyang University, South Korea. 
+🌱 I'm a PhD student at the University of Texas at Austin, [LIVE](https://live.ece.utexas.edu/) (supervisor: [Dr. Alan Bovik](http://utw10503.utweb.utexas.edu/bovik.php)). I received Masters in Computer Science under the supervision of [Dr. Tae Hyun Kim](https://sites.google.com/view/lliger9/team/taehyunkim) at Hanyang University, South Korea. 
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am interested in discovering the nature of all sorts of visual data (images, videos, 3D scenes, etc) and making them look better. In LIVE, I am working on VR video processing with a focus on human vision system. Here is my [CV](https://drive.google.com/file/d/1MI8tBAodGvGa4tguMH5W34X8F8UKqsIc/view?usp=sharing).
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am interested in discovering the nature of all sorts of visual data (images, videos, 3D scenes, etc) and making them look better. In LIVE, I am working on VR video processing with a focus on computer vision and human vision system. Here is my [CV](https://drive.google.com/file/d/1MI8tBAodGvGa4tguMH5W34X8F8UKqsIc/view?usp=sharing).
 
 
 
